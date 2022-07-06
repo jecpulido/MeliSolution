@@ -1,0 +1,12 @@
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\bin\Release\net5.0\Meli.Common.deps.json
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\bin\Release\net5.0\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\bin\Release\net5.0\ref\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\bin\Release\net5.0\Meli.Common.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.csproj.AssemblyReference.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.AssemblyInfoInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.AssemblyInfo.cs
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.csproj.CoreCompileInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\ref\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.Common\obj\Release\net5.0\Meli.Common.pdb

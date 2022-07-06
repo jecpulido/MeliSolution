@@ -1,0 +1,15 @@
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\Meli.AccessLayer.deps.json
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\Meli.AccessLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\ref\Meli.AccessLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\Meli.AccessLayer.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\bin\Release\net5.0\Meli.Common.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.csproj.AssemblyReference.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.AssemblyInfoInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.AssemblyInfo.cs
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.csproj.CoreCompileInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.csproj.CopyComplete
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\ref\Meli.AccessLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.AccessLayer\obj\Release\net5.0\Meli.AccessLayer.pdb

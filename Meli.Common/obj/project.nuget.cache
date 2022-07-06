@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+erEgB0mj/E+ABc3ZdM+xH4GWxr12KzlrGz0/3U8uzneB6opkS2vYE/AuTntBd3rHhU6xaMWyyIzL2G/lLK6dw==",
+  "success": true,
+  "projectFilePath": "D:\\PruebasTecnicas\\MELI\\MeliSolution\\Meli.Common\\Meli.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mongodb.bson\\2.16.1\\mongodb.bson.2.16.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

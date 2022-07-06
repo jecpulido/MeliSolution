@@ -1,0 +1,17 @@
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.ServiceLayer.deps.json
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.ServiceLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\ref\Meli.ServiceLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.ServiceLayer.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.AccessLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.Common.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.AccessLayer.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\bin\Release\net5.0\Meli.Common.pdb
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.csproj.AssemblyReference.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.AssemblyInfoInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.AssemblyInfo.cs
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.csproj.CoreCompileInputs.cache
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.csproj.CopyComplete
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\ref\Meli.ServiceLayer.dll
+D:\PruebasTecnicas\MELI\Meli\Meli.ServiceLayer\obj\Release\net5.0\Meli.ServiceLayer.pdb
